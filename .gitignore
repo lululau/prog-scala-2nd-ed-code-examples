@@ -7,3 +7,5 @@ project/target
 target
 /.ensime
 /.ensime_cache/
+.DS_Store
+/akka.log
